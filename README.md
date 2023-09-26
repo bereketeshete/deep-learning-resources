@@ -10,7 +10,7 @@
 
 <h2> Deep Learning Books </h2>
 
-- Advanced Deep Learning for Engineers and Scientists <br>
+- Advanced Deep Learning for Engineers and Scientists [link] (https://cloudflare-ipfs.com/ipfs/bafykbzacebp5prvvncpmhlf7nfq37xekm7el4w4kxeake6rihn4iyfzj5vgqk?filename=Kolla%20Bhanu%20Prakash%20%28editor%29%2C%20Ramani%20Kannan%20%28editor%29%2C%20S.Albert%20Alexander%20%28editor%29%2C%20G.%20R.%20Kanagachidambaresan%20%28editor%29%20-%20Advanced%20Deep%20Learning%20for%20Engineers%20and%20Scientists_%20A%20Practical%20Approach%20%28EAI_S.pdf) <br>
 
 
 <!-- PROJECT SHIELDS -->
