@@ -8,6 +8,9 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
+<h2> Deep Learning Books </h2>
+
+- Advanced Deep Learning for Engineers and Scientists <br>
 
 
 <!-- PROJECT SHIELDS -->
